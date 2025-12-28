@@ -1,6 +1,6 @@
 # X Clone
 
-A pixel-perfect static clone of X (formerly Twitter), built from scratch using pure HTML, CSS, and vanilla JavaScript.
+A pixel-perfect static clone of X (formerly Twitter), built from scratch using pure HTML and CSS 
 
 The goal was to recreate the current X interface as accurately as possible — focusing on layout, typography, spacing, and dark mode.
 
